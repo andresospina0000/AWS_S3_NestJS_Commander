@@ -1,4 +1,4 @@
-NestJS Commander application with AWS SDK S3 Client
+#NestJS Commander application with AWS SDK S3 Client
 
 Please execute the "npm install" command to install all dependecies.
 
